@@ -1,5 +1,5 @@
 # OLS-6-project
-**MENTAL HEALTH AMONG RESEARCHERS (POST-GRADUATE STUDENTS)**
+**an Open support resource for mental health among researchers in Kenya (POST-GRADUATE STUDENTS)**
 
 ![image](https://user-images.githubusercontent.com/48203926/196597507-0b269c39-f62d-406b-88dc-7979a8db9cca.png)
 
